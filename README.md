@@ -12,6 +12,6 @@
 <br>
 
 This is a small repository for some [PyTorch](https://pytorch.org/) exercises.\
-There are a few notebooks which include some basic machine learning algorithms and techniques, like **Linear Regression** and some **Activation Functions** to classify data.
+There are few notebooks which include some basic machine learning algorithms and techniques, like **Linear Regression** and some **Activation Functions** to classify data.
 
 Other ones contain some **Convolutional Neural Networks** in order to try to classify images of different objects and animals (accuracy is not that good, due to the simplicity of the network's architecture, but it's a good start).
